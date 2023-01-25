@@ -1,0 +1,6 @@
+kemogu Kemal Yeyit 123456 A 1122331 1350
+meteuksal Mete Uksal 123456 A 1122332 530
+erdemborekci Erdem Borekci 123456 B 2233441 1820
+harundursun Harun Dursun 123456 B 2233442 1000
+serdarsoylemez Serdar Soylemez 123456 C 3344551 345
+erdincnamal Erdinc Namal 123456 C 3344552 1115
